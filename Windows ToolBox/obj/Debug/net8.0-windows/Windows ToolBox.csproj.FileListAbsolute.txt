@@ -1,0 +1,32 @@
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Windows ToolBox.exe
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Windows ToolBox.deps.json
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Windows ToolBox.runtimeconfig.json
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Windows ToolBox.dll
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Windows ToolBox.pdb
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone_sucks.Form1.resources
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Windows ToolBox.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Windows ToolBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Windows ToolBox.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Windows ToolBox.AssemblyInfo.cs
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Windows ToolBox.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Windows ToolBox.dll
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\refint\Windows ToolBox.dll
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Windows ToolBox.pdb
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Windows ToolBox.genruntimeconfig.cache
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\ref\Windows ToolBox.dll
+C:\Users\pc\source\repos\Windows ToolBox\bin\Debug\net8.0-windows\Windows ToolBox.exe
+C:\Users\pc\source\repos\Windows ToolBox\bin\Debug\net8.0-windows\Windows ToolBox.deps.json
+C:\Users\pc\source\repos\Windows ToolBox\bin\Debug\net8.0-windows\Windows ToolBox.runtimeconfig.json
+C:\Users\pc\source\repos\Windows ToolBox\bin\Debug\net8.0-windows\Windows ToolBox.dll
+C:\Users\pc\source\repos\Windows ToolBox\bin\Debug\net8.0-windows\Windows ToolBox.pdb
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Hone_sucks.Form1.resources
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Windows ToolBox.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Windows ToolBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Windows ToolBox.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Windows ToolBox.AssemblyInfo.cs
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Windows ToolBox.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Windows ToolBox.dll
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\refint\Windows ToolBox.dll
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Windows ToolBox.pdb
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\Windows ToolBox.genruntimeconfig.cache
+C:\Users\pc\source\repos\Windows ToolBox\obj\Debug\net8.0-windows\ref\Windows ToolBox.dll

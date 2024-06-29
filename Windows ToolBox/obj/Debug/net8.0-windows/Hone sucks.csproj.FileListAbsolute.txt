@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Hone sucks.exe
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Hone sucks.deps.json
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Hone sucks.runtimeconfig.json
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Hone sucks.dll
+C:\Users\pc\source\repos\Hone sucks\bin\Debug\net8.0-windows\Hone sucks.pdb
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone_sucks.Form1.resources
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone sucks.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone sucks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone sucks.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone sucks.AssemblyInfo.cs
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone sucks.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone sucks.dll
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\refint\Hone sucks.dll
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone sucks.pdb
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\Hone sucks.genruntimeconfig.cache
+C:\Users\pc\source\repos\Hone sucks\obj\Debug\net8.0-windows\ref\Hone sucks.dll
