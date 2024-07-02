@@ -1,6 +1,8 @@
 # Windows-ToolBox
 Free and open-source Performance Optimiser for Windows 10 and 11.
 
+![alt text](https://github.com/danielm3600/Windows-ToolBox/blob/main/Capture.PNG)
+
 **How to use:**
 
 1: Download Latest Release in the Releases tab on the side
