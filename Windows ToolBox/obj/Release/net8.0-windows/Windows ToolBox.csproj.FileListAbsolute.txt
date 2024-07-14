@@ -1,0 +1,20 @@
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\bin\Release\net8.0-windows\Windows ToolBox.exe
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\bin\Release\net8.0-windows\Windows ToolBox.deps.json
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\bin\Release\net8.0-windows\Windows ToolBox.runtimeconfig.json
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\bin\Release\net8.0-windows\Windows ToolBox.dll
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\bin\Release\net8.0-windows\Windows ToolBox.pdb
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Hone_sucks.Form1.resources
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.csproj.GenerateResource.cache
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.AssemblyInfo.cs
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.dll
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\refint\Windows ToolBox.dll
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.pdb
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.genruntimeconfig.cache
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\ref\Windows ToolBox.dll
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\bin\Release\net8.0-windows\System.Management.dll
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows ToolBox.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ToolBox resources\Windows ToolBox\obj\Release\net8.0-windows\Windows .6A1B6A5E.Up2Date

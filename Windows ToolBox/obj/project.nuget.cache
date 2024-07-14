@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k71duU1bsRQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Documents\\ToolBox resources\\Windows ToolBox\\Windows ToolBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
