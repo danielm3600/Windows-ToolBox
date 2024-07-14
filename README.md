@@ -1,7 +1,7 @@
 # Windows-ToolBox
 Free and open-source Performance Optimiser for Windows 7 and above.
 
-![alt text](https://github.com/danielm3600/Windows-ToolBox/blob/main/Capture.PNG)
+![alt text]([https://github.com/danielm3600/Windows-ToolBox/blob/main/Capture.PNG](https://github.com/danielm3600/Windows-ToolBox/blob/main/Capture.PNG))
 
 **How to use:**
 
